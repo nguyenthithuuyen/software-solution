@@ -1,0 +1,2856 @@
+.cms-software-solution .t-table-col > :first-child {
+    background: #DCB972 0% 0% no-repeat padding-box;
+    opacity: 1;
+    line-height: 1.2;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 26px 63px 26px;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 700;
+}
+.cms-software-solution span.base {
+    color: #fff;
+}
+.cms-software-solution h4 {
+    color: #fff;
+}
+
+.cms-software-solution h5.int {
+    color: #fff;
+}
+
+.cms-software-solution .text-content a {
+    margin-top: 20px;
+    position: relative;
+    max-width: 100%;
+    font-weight: bold;
+    height: 55px;
+    font-size: 16px;
+    line-height: 27px;
+    border: 1px solid #001e36;
+    border-radius: 30px;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    text-decoration: none;
+    cursor: pointer;
+    outline: 0;
+    color: #fff;
+    text-transform: capitalize;
+    font-family: 'Arial', sans-serif;
+    background: #001E36;
+    box-shadow: none !important;
+    padding: 7px 80px 7px 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 220px;
+    text-transform: uppercase;
+}
+
+.cms-software-solution .text-content a:before {
+    content: '';
+    background: url(../images/caret-gold.svg) no-repeat center;
+    width: 11px;
+    height: 14px;
+    position: absolute;
+    right: 18px;
+    z-index: 1;
+    top: 19px;
+}
+
+.cms-software-solution .text-content a:after {
+    content: '';
+    width: 47px;
+    height: 47px;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 29%);
+    position: absolute;
+    border-radius: 50%;
+    background: #fff;
+    right: 2px;
+    top: 2px;
+    border: 1px solid;
+}
+
+.cms-software-solution .container.image-HOCI® {
+    display: flex;
+    padding: 20px 18px 26px 120px;
+}
+
+.cms-software-solution .image2-HOCI® {
+    padding: 20px 46px;
+}
+
+.cms-software-solution .image1-HOCI® {
+    padding: 20px 8px 28px;
+}
+
+.cms-software-solution .image1-SDMS® {
+    padding: 22px 43px 32px;
+}
+
+.cms-software-solution .container.image-SDMS® {
+    display: flex;
+    padding: 20px 46px;
+}
+
+.cms-software-solution .text1-solution-SDMS® {
+    padding: 9px 63px 40px 63px;
+}
+
+.text1-solution-HOCI® {
+    padding: 9px 63px 40px 63px;
+}
+
+.cms-software-solution .t-table-col {
+    width: calc(100% / 3);
+}
+
+.cms-software-solution .container.image-HOCI® {
+    display: flex;
+}
+
+.cms-software-solution div#tab-2 {
+    border: 1px solid #DCB972;
+    border-radius: 30px;
+}
+
+.cms-software-solution .title {
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+    padding: 19px 33px;
+}
+
+.cms-software-solution .content-business-best {
+    display: flex;
+    margin-top: 19px;
+    justify-content: center;
+}
+
+.cms-software-solution .t-business-best {
+    border: 1px solid #DCB972;
+}
+
+.cms-software-solution .text-business-best {
+    width: 44%;
+    /* margin-top: -32px; */
+    /* max-width: 100%; */
+    padding-left: 82px;
+    padding-right: 10px;
+    width: 100%;
+    max-width: 778px;
+}
+
+.cms-software-solution .text1-business-best {
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+}
+
+.cms-software-solution .text2-business-best {
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    margin-top: 17px;
+}
+
+.cms-software-solution .table-business-best {
+    display: flex;
+    text-align: center;
+}
+
+.cms-software-solution .title-business-best {
+    text-align: left;
+    font: normal normal bold 33px/54px Arial;
+    letter-spacing: -0.66px;
+    color: #FFFFFF;
+    opacity: 1;
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 22px 26px 0px 0px;
+    opacity: 1;
+    padding: 12px 28px 21px 40px;
+    height: 75px;
+}
+
+.cms-software-solution .solution-best {
+    margin-bottom: 63px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DCB972;
+    border-radius: 34px 34px 30px 30px;
+    opacity: 1;
+}
+
+.cms-software-solution .t-business-best.col > *:nth-of-type(2n-1) {
+    font: normal normal normal 20px/34px Arial;
+}
+
+.cms-software-solution .t-business-best.col > *:nth-of-type(2n) {
+    font: normal normal normal 20px/34px Arial;
+}
+
+.cms-software-solution .t-business-best > *:nth-of-type(2n) {
+    background: #f3f3f3;
+    height: 131px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 32px 80px 32px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .font > *:nth-of-type(2n-1) {
+    font: normal normal normal 20px/34px Arial;
+}
+
+.cms-software-solution .syn > *:nth-of-type(2n-1) {
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .t-business-best > *:nth-of-type(2n-1) {
+    background: #fff;
+    height: 133px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 17px 63px 17px;
+    color: #171717;
+}
+
+.cms-software-solution .divCellB {
+    background: #f3f3f3;
+}
+
+.cms-software-solution .divCellA.solution {
+    border: 1px solid #DCB972;
+    height: 309px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 20px 32px 20px;
+}
+
+.cms-software-solution .divCellA {
+    text-align: center;
+    background: none !important;
+}
+
+.cms-software-solution .image-business-best {
+    width: 40%;
+}
+
+.cms-software-solution .image-business-best img {
+    height: 100%
+}
+
+.cms-software-solution .tab-software-solutions > * {
+    width: 31.33%;
+    position: relative;
+    color: #929292;
+    text-align: center;
+    font: normal normal bold 23px/54px Arial;
+    letter-spacing: -0.46px;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.cms-software-solution .title-solution {
+    /* text-align: left; */
+    font: normal normal bold 33px/54px Arial;
+    letter-spacing: -0.66px;
+    color: #FFFFFF;
+    opacity: 1;
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+    padding: 11px 38px;
+    display: flex;
+}
+
+.cms-software-solution .text-content.cont-hoci {
+    margin-bottom: 11px;
+    margin-top: -74px;
+}
+
+.cms-software-solution .text-content.text-high-tech {
+    margin-top: -150px;
+    margin-bottom: 15px;
+}
+
+.cms-software-solution .HIMSÂ®.solution :after {
+    opacity: 1;
+    margin-bottom: 40px;
+    background: #001e36 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .table-solution {
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    padding: 9px 63px 20px 63px;
+    display: flex;
+    margin-top: 25px;
+}
+
+.cms-software-solution .text2-solution {
+    padding: 4px 180px 40px 170px;
+}
+
+.cms-software-solution .text2-solution li {
+    margin-bottom: 0;
+}
+
+.cms-software-solution .t-table-col {
+    display: block;
+}
+
+.cms-software-solution .title-solution-SDMS {
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 99px;
+    margin-bottom: 30px;
+    /* text-align: left; */
+    font: normal normal bold 31px/54px Arial;
+    letter-spacing: -0.62px;
+    color: #171717;
+    /* opacity: 1; */
+    display: flex;
+    align-self: center;
+    align-items: center;
+    padding: 12px 30px 12px;
+}
+
+.cms-software-solution .title-solution-integration31 {
+    text-align: left;
+    font: normal normal bold 26px/30px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding: 21.5px 32px 21.5px;
+    display: flex;
+}
+
+.cms-software-solution .HIMSÂ®-solution2 {
+    border: 1px solid #DCB972;
+    border-radius: 30px 30px 30px 30px;
+    margin-bottom: 70px;
+}
+
+.cms-software-solution .text-solution-SDMSÂ® {
+    padding: 9px 82px 1px 68px;
+}
+
+.cms-software-solution .table-SDMSÂ® {
+    text-align: center;
+    display: flex;
+    /* padding: 0px 87px 80px 1px; */
+}
+
+.cms-software-solution .image-SDMSÂ® {
+    display: flex;
+}
+
+.cms-software-solution button {
+    /* float: right; */
+    margin-bottom: 40px;
+}
+
+.cms-software-solution .table-solution.tb2 {
+    margin-top: -40px;
+}
+
+.cms-software-solution .solution-SDMSÂ® {
+    margin-top: 10px;
+}
+
+.cms-software-solution .image2-SDMSÂ® {
+    padding: 60px 0 0 131px;
+}
+
+.cms-software-solution .image1-SDMSÂ® {
+    padding: 76px 117px 48px 66.5px;
+}
+
+.cms-software-solution .text1-solution {
+    padding: 30px 68px 18px;
+}
+
+.cms-software-solution .text1-solution-SDMSÂ® {
+    /* padding: 60px 39px 20px 131px; */
+}
+
+.cms-software-solution .table-SDMSÂ® {
+    margin-top: 22px;
+}
+
+.cms-software-solution .text1-solution-HOCIÂ® {
+    height: 124px;
+    text-align: left;
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0.4px;
+    color: #171717;
+    opacity: 1;
+    padding: 4px 69px 0 65px;
+}
+
+.cms-software-solution .table-HOCIÂ® {
+    padding: 96px 65px 40px 65px;
+    display: flex;
+}
+
+.cms-software-solution .image-HOCIÂ® {
+    display: flex;
+}
+
+.cms-software-solution .title-solution-integration {
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+    height: 110px;
+    text-align: left;
+    font: normal normal bold 31px/54px Arial;
+    letter-spacing: -0.62px;
+    color: #FFFFFF;
+    padding: 56px 62px 1px;
+}
+
+.cms-software-solution .title-solution-integration3 {
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 73px;
+    text-align: left;
+    font: normal normal bold 26px/30px Arial;
+    letter-spacing: 1px;
+    color: #171717;
+}
+
+.cms-software-solution .solutions-integration-HIMSÂ® {
+    border: 2px solid #dcb972;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.cms-software-solution .text-solution-integration {
+    text-align: left;
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 30px 62px 5px 68px;
+}
+
+.cms-software-solution .title-solution-HIMS-QMSTM {
+    text-align: left;
+    font: normal normal bold 22px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 40px 64px 37px;
+    display: flex;
+}
+
+.cms-software-solution .image-HIMS-QMSTM {
+    display: flex;
+    padding: 30px;
+}
+
+.cms-software-solution .title-solution-HIMS-IRSTM {
+    text-align: left;
+    font: normal normal bold 22px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    padding: 40px 64px 37px;
+}
+
+.cms-software-solution .image-HIMS-IRSTM {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.cms-software-solution .table-HIMS-IRSTM {
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.cms-software-solution .title-solution-HIMS-ERPTM {
+    text-align: left;
+    font: normal normal bold 22px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 40px 64px 37px;
+    display: flex;
+}
+
+.cms-software-solution .image-HIMS-ERPTM {
+    display: flex;
+    padding-bottom: 40px;
+}
+
+.cms-software-solution .table-HIMS-ERPTM {
+    padding-bottom: 100px;
+    display: flex;
+}
+
+.cms-software-solution .title-solution-high-tech {
+    text-align: left;
+    font: normal normal bold 26px/30px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding: 21.5px 32px 21.5px;
+    display: flex;
+}
+
+.cms-software-solution .text-high-tech-solution {
+    text-align: left;
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 40px 50px 0px 63px;
+}
+
+.cms-software-solution .table-high-tech {
+    padding-bottom: 100px;
+    display: flex;
+}
+
+.cms-software-solution .image-high-tech {
+    display: flex;
+}
+
+.cms-software-solution .tab-software-solutions .active {
+    color: #001e36;
+}
+
+.cms-software-solution .tab-software-solutions .active:after {
+    background: #001e36 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .tab-software-solutions > * {
+    width: 31.33%;
+    position: relative;
+    color: #929292;
+    text-align: center;
+    font: normal normal bold 23px/54px Arial;
+    letter-spacing: -0.46px;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.cms-software-solution .tab-software-solutions {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.cms-software-solution .tab-software-solutions > *:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    bottom: 0;
+    background: #b2b2b2 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(2n-1) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 18.5px 40px 18.5px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(2n) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 15px 68px 15px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .t-business-best.hoci > *:nth-of-type(1) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 24px 15px 24px;
+    text-align: center;
+}
+
+.cms-software-solution .divCellA.solution.HIMS {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 20px 32px 20px;
+    text-align: center;
+}
+
+.cms-software-solution .t-business-best.hoci > *:nth-of-type(2) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 28.5px 33px 28.5px;
+    text-align: center;
+}
+
+.cms-software-solution .t-business-best.hoci > *:nth-of-type(3) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 27.5px 24px 27.5px;
+    text-align: center;
+}
+
+.cms-software-solution .divCellA.solution.high-tech {
+    height: 420px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 17px 63px 17px;
+    text-align: center;
+}
+
+.image2-HOCIÂ® {
+    margin-left: 21px;
+}
+
+.image1-HOCIÂ® {
+    padding: 11px 5px 6px 117px;
+}
+
+.image1-HIMS-QMSTM {
+    padding: 15px 8px 13px 25px;
+}
+
+.image2-HIMS-QMSTM {
+    padding: 9px 27px 48px 37px;
+}
+
+.image1-.high-tech {
+    /* padding: 6px  105px 36px 30px; */
+    width: 50%;
+}
+
+
+/* CSS footer banner */
+
+.cms-software-solution .banner-bottom-service-soft .widget.block.block-static-block {
+    border: none;
+    border-radius: unset;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    padding-top: 336px;
+    background-image: url(../images/Banner_bottom.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cms-software-solution .box_banner {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cms-software-solution .box_banner .title_bn_bt {
+    font-size: 55px;
+    line-height: 65px;
+    font-weight: 700;
+    letter-spacing: -1.1px;
+    color: #FFFFFF;
+    margin-bottom: 28px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt {
+    max-width: 100%;
+    height: 55px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    border: 1px solid #dcb972;
+    border-radius: 30px;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    text-decoration: none;
+    cursor: pointer;
+    outline: 0;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    font-family: 'Arial', sans-serif;
+    background: #DCB972;
+    box-shadow: none !important;
+    padding: 7px 79px 7px 30px;
+    display: inline-flex;
+    justify-content: left;
+    align-items: center;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+    text-transform: uppercase;
+    margin: 0 10px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:hover {
+    color: #DCB972;
+    text-decoration: none;
+    box-shadow: none;
+    background-color: transparent;
+    border: 1px solid #dcb972;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:before {
+    content: '';
+    background: url(../images/caret-button.svg) no-repeat center;
+    width: 11px;
+    height: 14px;
+    position: absolute;
+    right: 18px;
+    z-index: 1;
+    top: 19px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:after {
+    content: '';
+    width: 49px;
+    height: 49px;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 29%);
+    position: absolute;
+    border-radius: 50%;
+    background: #fff;
+    right: 2px;
+    top: 2px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:hover::before {
+    background: url(../images/caret-button-hover.svg) no-repeat center;
+}
+
+.cms-software-solution ::marker {
+    color: #DCB972;
+    width: 8px;
+    height: 9px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt span:after {
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 29%);
+    content: '';
+    width: 47px;
+    height: 47px;
+    position: absolute;
+    border-radius: 50%;
+    background: #fff;
+    right: 2px;
+    top: 2px;
+    border: 1px solid;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:hover {
+    color: #DCB972;
+    text-decoration: none;
+    box-shadow: none;
+    background-color: transparent;
+    border: 1px solid #dcb972;
+}
+
+.cms-software-solution h3 {
+    color: #fff;
+}
+
+.cms-software-solution .t-business-best > *:nth-of-type(2n-1) {
+    height: 132px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 35px 25px 35px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .table-HIMS-QMSTM {
+    display: flex;
+}
+
+.cms-software-solution .tab-list {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+    text-align: center;
+    flex-wrap: wrap;
+    z-index: 3;
+    background: #fff;
+}
+
+.cms-software-solution .tab-list {
+    width: calc(100% - 40px);
+    max-width: 1400px;
+    left: 0px;
+    padding: 0;
+    right: 0;
+}
+
+.cms-software-solution .tab-list .tab {
+    width: 31.3%;
+    position: relative;
+    color: #929292;
+    text-align: center;
+    letter-spacing: -0.46px;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.cms-software-solution .tab-list {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.cms-software-solution.sticky .tab-list {
+    margin-top: 0px;
+}
+
+
+.cms-software-solution .tab-list > * {
+    width: 31.3%;
+    position: relative;
+    color: #929292;
+    text-align: center;
+    font: normal normal bold 23px/54px Arial;
+    letter-spacing: -0.46px;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.cms-software-solution .tab-list > *:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    bottom: 8px;
+    background: #b2b2b2 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .tab-list > *.active {
+    color: #001e36;
+}
+
+.cms-software-solution .tab-list > *.active:after {
+    background: #001e36 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(3) {
+    height: 132px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 15px 68px 15px;
+    text-align: center;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(4) {
+    height: 131px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 32px 39px 32px;
+    text-align: center;
+}
+
+.cms-software-solution p.sdms {
+    padding-right: 20px;
+}
+
+.cms-software-solution .image1-HIMS-IRSTM {
+    padding: 30px 31px 20px 44px;
+}
+
+.cms-software-solution .image2-HIMS-IRSTM {
+    padding: 26px 80px 20px 46px;
+}
+
+.cms-software-solution span.besttm {
+    padding-left: 35px;
+}
+
+.cms-software-solution span.assist {
+    padding-left: 50px;
+}
+
+.cms-software-solution span.sdms {
+    padding: 10px 20px 10px 80px;
+}
+
+.cms-software-solution span.hoci {
+    padding: 10px 20px 10px 80px;
+}
+
+.cms-software-solution span.intergration {
+    padding-left: 90px;
+}
+
+.cms-software-solution span.toms {
+    padding-left: 60px;
+}
+
+.cms-software-solution span.high-tech {
+    padding-left: 60px;
+}
+
+.cms-software-solution span.qmstm {
+    padding-left: 30px;
+}
+
+.cms-software-solution span.erptm {
+    padding-left: 30px;
+    display: flow-root;
+}
+
+.cms-software-solution .image1-.high-tech {
+    padding: 60px 28px 206px 50px;
+}
+
+.cms-software-solution .image2-.high-tech {
+    padding: 30px 60px 20px 40px;
+}
+
+.cms-software-solution .banner-wrapper {
+    position: relative
+}
+
+.cms-software-solution {
+    height: auto;
+}
+
+.cms-software-solution .title-container {
+    position: absolute;
+    width: 100%;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+div#tab-3 {
+    border: 1px solid #DCB972;
+    border-radius: 30px;
+    margin-top: 60px;
+}
+
+.cms-software-solution .title-container .breadcrumbs {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    transform: translateY(8px)
+}
+
+.cms-software-solution .title-container .breadcrumbs .items > li {
+    vertical-align: unset
+}
+
+.cms-software-solution .title-container h1.page-title {
+    color: #FFFFFF
+}
+
+.cms-software-solution .page-main {
+    width: 100%;
+    max-width: 1440px;
+    padding: 0px 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+}
+
+.cms-software-solution .t-table-col > :first-child {
+    background: #DCB972 0% 0% no-repeat padding-box;
+    opacity: 1;
+    line-height: 1.2;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 23px 40px 23px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cms-software-solution .t-table-col {
+    width: calc(100% / 3);
+}
+
+.cms-software-solution .title {
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+    padding: 19px 33px;
+}
+
+.cms-software-solution .content-business-best {
+    display: flex;
+    margin-top: 19px;
+    justify-content: center;
+}
+
+.cms-software-solution .t-business-best {
+    border: 1px solid #DCB972;
+}
+
+.cms-software-solution .text-business-best {
+    padding-left: 82px;
+    padding-right: 10px;
+    width: 100%;
+    max-width: 778px;
+}
+
+.cms-software-solution .text1-business-best {
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+}
+
+.cms-software-solution .text2-business-best {
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+
+.cms-software-solution .t-business-best.col > *:nth-of-type(2n-1) {
+    font: normal normal normal 20px/34px Arial;
+}
+
+.cms-software-solution .t-business-best.col > *:nth-of-type(2n) {
+    font: normal normal normal 20px/34px Arial;
+}
+
+.cms-software-solution .text-content {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+    padding: 0px 58px 40px;
+    margin-bottom: 12px;
+}
+
+
+.cms-software-solution .table-business-best {
+    display: flex;
+    text-align: center;
+}
+
+.cms-software-solution .title-business-best {
+    text-align: left;
+    font: normal normal bold 33px/54px Arial;
+    letter-spacing: -0.66px;
+    color: #FFFFFF;
+    opacity: 1;
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 22px 26px 0px 0px;
+    opacity: 1;
+    padding: 12px 28px 21px 40px;
+    height: 75px;
+}
+
+.cms-software-solution .solution-best {
+    margin-bottom: 63px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DCB972;
+    border-radius: 34px 34px 30px 30px;
+    opacity: 1;
+}
+
+.cms-software-solution .t-business-best > *:nth-of-type(2n) {
+    background: #f3f3f3;
+    height: 131px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 32px 80px 32px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .t-business-best > *:nth-of-type(2n-1) {
+    background: #fff;
+    height: 133px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 17px 63px 17px;
+    color: #171717;
+}
+
+.cms-software-solution .divCellB {
+    background: #f3f3f3;
+}
+
+.cms-software-solution .divCellA.solution {
+    border: 1px solid #DCB972;
+    height: 309px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 20px 32px 20px;
+}
+
+.cms-software-solution .divCellA {
+    text-align: center;
+    background: none !important;
+}
+
+.cms-software-solution .image-business-best {
+    width: 40%;
+    /* padding-bottom: 40px; */
+    /* display: flex; */
+}
+
+.cms-software-solution .image-business-best img {
+    height: 100%
+}
+
+.cms-software-solution .tab-software-solutions > * {
+    width: 31.33%;
+    position: relative;
+    color: #929292;
+    text-align: center;
+    font: normal normal bold 23px/54px Arial;
+    letter-spacing: -0.46px;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.cms-software-solution .title-solution {
+    /* text-align: left; */
+    font: normal normal bold 30px/45px Arial;
+    letter-spacing: -0.66px;
+    color: #FFFFFF;
+    opacity: 1;
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+    padding: 11px 38px;
+    display: flex;
+}
+
+.cms-software-solution .HIMSÂ®.solution :after {
+    opacity: 1;
+    margin-bottom: 40px;
+    background: #001e36 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .table-solution {
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    margin-top: 30px;
+}
+
+.cms-software-solution .container.image-HOCI® {
+    display: flex;
+    padding-left: 100px;
+}
+
+.cms-software-solution .image2-HOCI® {
+    padding: inherit;
+}
+
+.cms-software-solution .image1-SDMS® {
+    padding: initial;
+}
+
+.cms-software-solution .text2-solution li {
+    margin-bottom: 0;
+}
+
+.cms-software-solution .t-table-col {
+    display: block;
+}
+
+.cms-software-solution .title-solution-SDMS {
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 99px;
+    margin-bottom: 30px;
+    font: normal normal bold 31px/54px Arial;
+    letter-spacing: -0.62px;
+    color: #171717;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    padding: 12px 30px 12px;
+}
+
+.cms-software-solution .title-solution-integration31 {
+    text-align: left;
+    font: normal normal bold 26px/30px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    padding: 21.5px 32px 21.5px;
+    display: flex;
+}
+
+.cms-software-solution .HIMSÂ®-solution2 {
+    border: 1px solid #DCB972;
+    border-radius: 30px 30px 30px 30px;
+    margin-bottom: 70px;
+}
+
+.cms-software-solution .text-solution-SDMSÂ® {
+    padding: 9px 82px 1px 68px;
+}
+
+.cms-software-solution .table-SDMSÂ® {
+    text-align: center;
+    display: flex;
+}
+
+.cms-software-solution .image-SDMSÂ® {
+    display: flex;
+}
+
+.cms-software-solution button {
+    margin-bottom: 40px;
+}
+
+.cms-software-solution .table-solution.tb2 {
+    margin-top: -40px;
+}
+
+.cms-software-solution .solution-SDMSÂ® {
+    margin-top: 10px;
+}
+
+.cms-software-solution .image2-SDMSÂ® {
+    padding: 60px 0 0 131px;
+}
+
+.cms-software-solution .image1-SDMSÂ® {
+    padding: 76px 117px 48px 66.5px;
+}
+
+.cms-software-solution .table-SDMSÂ® {
+    margin-top: 22px;
+}
+
+.cms-software-solution .text1-solution-HOCIÂ® {
+    height: 124px;
+    text-align: left;
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0.4px;
+    color: #171717;
+    opacity: 1;
+    padding: 4px 69px 0 65px;
+}
+
+.cms-software-solution .table-HOCIÂ® {
+    padding: 96px 65px 40px 65px;
+    display: flex;
+}
+
+.cms-software-solution .image-HOCIÂ® {
+    display: flex;
+}
+
+.cms-software-solution .title-solution-integration {
+    background: #DCB972 0% 0% no-repeat padding-box;
+    border-radius: 30px 30px 0px 0px;
+    opacity: 1;
+    height: 110px;
+    text-align: left;
+    font: normal normal bold 31px/54px Arial;
+    letter-spacing: -0.62px;
+    color: #FFFFFF;
+    padding: 56px 62px 1px;
+}
+
+.cms-software-solution .title-solution-integration3 {
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 73px;
+    text-align: left;
+    font: normal normal bold 26px/30px Arial;
+    letter-spacing: 1px;
+    color: #171717;
+}
+
+.cms-software-solution .solutions-integration-HIMSÂ® {
+    border: 2px solid #dcb972;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.cms-software-solution .text-solution-integration {
+    text-align: left;
+    font: normal normal normal 20px/34px Aria;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 30px 62px 5px 68px;
+}
+
+.cms-software-solution .title-solution-HIMS-QMSTM {
+    text-align: left;
+    font: normal normal bold 22px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 40px 64px 37px;
+    display: flex;
+}
+
+.cms-software-solution .image-HIMS-QMSTM {
+    display: flex;
+    padding: 30px;
+}
+
+.cms-software-solution .title-solution-HIMS-IRSTM {
+    text-align: left;
+    font: normal normal bold 22px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    padding: 40px 64px 37px;
+}
+
+.cms-software-solution .image-HIMS-IRSTM {
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.cms-software-solution .table-HIMS-IRSTM {
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.cms-software-solution .title-solution-HIMS-ERPTM {
+    text-align: left;
+    font: normal normal bold 22px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 40px 64px 37px;
+    display: flex;
+}
+
+.cms-software-solution .image-HIMS-ERPTM {
+    display: flex;
+    padding-bottom: 40px;
+}
+
+.cms-software-solution .table-HIMS-ERPTM {
+    padding-bottom: 100px;
+    display: flex;
+}
+
+.cms-software-solution .title-solution-high-tech {
+    text-align: left;
+    font: normal normal bold 23px/30px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding: 21.5px 32px 21.5px;
+    display: flex;
+}
+
+.cms-software-solution .text-high-tech-solution {
+    text-align: left;
+    font: normal normal normal 20px/34px Arial;
+    letter-spacing: 0px;
+    color: #171717;
+    opacity: 1;
+    padding: 40px 50px 0px 63px;
+    margin-bottom: 40px;
+}
+
+.cms-software-solution .table-high-tech {
+    padding-bottom: 100px;
+    display: flex;
+}
+
+.cms-software-solution .image-high-tech {
+    display: flex;
+}
+
+.cms-software-solution .tab-software-solutions .active {
+    color: #001e36;
+}
+
+.cms-software-solution .tab-software-solutions .active:after {
+    background: #001e36 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .tab-software-solutions > * {
+    width: 31.33%;
+    position: relative;
+    color: #929292;
+    text-align: center;
+    font: normal normal bold 23px/54px Arial;
+    letter-spacing: -0.46px;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.cms-software-solution .tab-software-solutions {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.cms-software-solution .tab-software-solutions > *:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    bottom: 0;
+    background: #b2b2b2 0% 0% no-repeat padding-box;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(2n-1) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 24px 50px 24px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(2n) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 37.5px 68px 37.5px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .t-business-best.hoci > *:nth-of-type(1) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 24px 15px 24px;
+    text-align: center;
+}
+
+.cms-software-solution .divCellA.solution.HIMS {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 20px 32px 20px;
+    text-align: center;
+}
+
+.cms-software-solution .t-business-best.hoci > *:nth-of-type(2) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 28.5px 33px 28.5px;
+    text-align: center;
+}
+
+.cms-software-solution .t-business-best.hoci > *:nth-of-type(3) {
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 27.5px 24px 27.5px;
+    text-align: center;
+}
+
+.cms-software-solution .divCellA.solution.high-tech {
+    height: 420px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 17px 63px 17px;
+    text-align: center;
+}
+
+.image2-HOCIÂ® {
+    margin-left: 21px;
+}
+
+.image1-HOCIÂ® {
+    padding: 11px 5px 6px 117px;
+}
+
+.image1-HIMS-QMSTM {
+    padding: 15px 8px 13px 25px;
+}
+
+.image2-HIMS-QMSTM {
+    padding: 9px 27px 48px 37px;
+}
+
+.image1-.high-tech {
+    /* padding: 6px  105px 36px 30px; */
+    width: 50%;
+}
+
+/* CSS footer banner */
+.cms-software-solution .banner-bottom-service-soft .widget.block.block-static-block {
+    border: none;
+    border-radius: unset;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    padding-top: 336px;
+    background-image: url(../images/Banner_bottom.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cms-software-solution .box_banner {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cms-software-solution .box_banner .title_bn_bt {
+    font-size: 35px;
+    line-height: 48px;
+    font-weight: 700;
+    letter-spacing: -1.1px;
+    color: #FFFFFF;
+    margin-bottom: 28px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt {
+    max-width: 100%;
+    height: 55px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    border: 1px solid #dcb972;
+    border-radius: 30px;
+    -webkit-transition: all .2s;
+    transition: all .2s;
+    text-decoration: none;
+    cursor: pointer;
+    outline: 0;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    font-family: 'Arial', sans-serif;
+    background: #DCB972;
+    box-shadow: none !important;
+    padding: 7px 79px 7px 30px;
+    display: inline-flex;
+    justify-content: left;
+    align-items: center;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    position: relative;
+    text-transform: uppercase;
+    margin: 0 10px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:hover {
+    color: #DCB972;
+    text-decoration: none;
+    box-shadow: none;
+    background-color: transparent;
+    border: 1px solid #dcb972;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:before {
+    content: '';
+    background: url(../images/caret-button.svg) no-repeat center;
+    width: 11px;
+    height: 14px;
+    position: absolute;
+    right: 18px;
+    z-index: 1;
+    top: 19px;
+}
+
+.cms-software-solution .box_banner .link_bn_bt:after {
+    content: '';
+    width: 49px;
+    height: 49px;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 29%);
+    position: absolute;
+    border-radius: 50%;
+    background: #fff;
+    right: 2px;
+    top: 2px;
+}
+
+.cms-software-solution .t-business-best > *:nth-of-type(2n-1) {
+    height: 132px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 16px 40px 16px;
+    text-align: center;
+    font: normal normal normal 17px/28px Arial;
+}
+
+.cms-software-solution .font.syn {
+    padding: 10px 27px 28px;
+
+}
+
+.cms-software-solution .font.erp {
+    padding: 20px 25px 10px 17px;
+}
+
+.cms-software-solution .font.hight {
+    padding: 20px 26px 5px;
+}
+
+.cms-software-solution .table-HIMS-QMSTM {
+    display: flex;
+    margin-top: -10px;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(3) {
+    height: 132px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 38px 68px 38px;
+    text-align: center;
+}
+
+.cms-software-solution .t-business-best.solution > *:nth-of-type(4) {
+    height: 131px;
+    display: grid;
+    align-self: center;
+    align-items: center;
+    padding: 37.5px 39px 37.5px;
+    text-align: center;
+}
+
+.cms-software-solution p.sdms {
+    padding-right: 20px;
+}
+
+.cms-software-solution .image1-HIMS-IRSTM {
+    padding: 30px 31px 20px 44px;
+}
+
+.cms-software-solution .image2-HIMS-IRSTM {
+    padding: 26px 80px 20px 46px;
+}
+
+.cms-software-solution span.besttm {
+    padding-left: 35px;
+}
+
+.cms-software-solution span.assist {
+    padding-left: 50px;
+}
+
+.cms-software-solution span.sdms {
+    padding: 10px 20px 10px 80px;
+}
+
+.cms-software-solution span.hoci {
+    padding: 10px 20px 10px 80px;
+}
+
+.cms-software-solution span.intergration {
+    padding-left: 20px;
+}
+
+.cms-software-solution span.toms {
+    padding-left: 60px;
+}
+
+.cms-software-solution span.high-tech {
+    padding-left: 60px;
+}
+
+.cms-software-solution span.qmstm {
+    padding-left: 30px;
+}
+
+.cms-software-solution span.erptm {
+    padding-left: 30px;
+    display: flow-root;
+}
+
+.cms-software-solution .image1-.high-tech {
+    padding: 60px 28px 206px 50px;
+}
+
+.cms-software-solution .image2-.high-tech {
+    padding: 30px 60px 20px 40px;
+}
+
+.cms-software-solution .banner-wrapper {
+    position: relative
+}
+
+.cms-software-solution {
+    height: auto;
+}
+
+.cms-software-solution .title-container {
+    position: absolute;
+    width: 100%;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.cms-software-solution .title-container .breadcrumbs {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    transform: translateY(8px)
+}
+
+.cms-software-solution .title-container .breadcrumbs .items > li {
+    vertical-align: unset
+}
+
+.cms-software-solution .title-container h1.page-title {
+    color: #FFFFFF
+}
+
+.cms-software-solution .page-main {
+    width: 100%;
+    max-width: 1440px;
+    padding: 0px 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 80px;
+}
+
+.cms-software-solution .th-col.sol {
+    font: normal normal bold 19px/30px Arial;
+}
+
+@media (max-width: 1080px) {
+    .cms-software-solution .text1-business-best {
+        font: normal normal normal 17px/28px Arial;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+    }
+    .cms-software-solution .title-solution-HIMS-ERPTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 0 21px 27px;
+        display: flex;
+        font-size: 19px;
+    }
+    .cms-software-solution .title-solution-HIMS-QMSTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 19px 38px 12px;
+        display: flex;
+        font-size: 19px;
+    }
+    .cms-software-solution .title-solution-HIMS-IRSTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        padding: 7px 26px 36px;
+        display: flex;
+        font-size: 19px;
+    }
+    .cms-software-solution .title-solution-integration31 {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        background: #F3F3F3 0% 0% no-repeat padding-box;
+        padding: 15.5px 28px 15.5px;
+        display: flex;
+        font-size: 23px;
+    }
+    .cms-software-solution h5 {
+        display: flex;
+    }
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: -80px;
+        margin-bottom: 15px;
+    }
+
+    .cms-software-solution .text2-business-best {
+        font: normal normal normal 17px/28px Arial;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        margin-top: 17px;
+        margin-bottom: 20px;
+    }
+
+    .cms-software-solution .t-table-col > :first-child {
+        background: #DCB972 0% 0% no-repeat padding-box;
+        opacity: 1;
+        line-height: 1.2;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 23px 40px 23px;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .cms-software-solution .t-business-best.col > *:nth-of-type(2n-1) {
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .t-business-best.col > *:nth-of-type(2n) {
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .text1-solution {
+        padding: 30px 68px 18px;
+        /* font-size: 17px; */
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .text2-solution {
+        padding: 4px 180px 40px 170px;
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .th-col.sol {
+        font: normal normal normal 16px/28px Arial;
+    }
+
+    .cms-software-solution .t-business-best.solution > *:nth-of-type(2n-1) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 24px 50px 24px;
+        text-align: center;
+        font: normal normal normal 14px/28px Arial;
+    }
+
+    .cms-software-solution .t-business-best.solution > *:nth-of-type(2n) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 37.5px 68px 37.5px;
+        text-align: center;
+        font: normal normal normal 14px/28px Arial;
+    }
+
+    .cms-software-solution .text1-solution-SDMS® {
+        padding: 9px 63px 40px 23px;
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .t-business-best > *:nth-of-type(2n-1) {
+        height: 132px;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 16px 40px 16px;
+        text-align: center;
+        font: normal normal normal 14px/28px Arial;
+    }
+
+    .text1-solution-HOCI® {
+        padding: 9px 63px 40px 23px;
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .t-business-best.hoci > *:nth-of-type(2) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 28.5px 33px 28.5px;
+        text-align: center;
+        font: normal normal normal 14px/28px Arial;
+    }
+
+    .cms-software-solution .text-solution-integration {
+        text-align: left;
+        font: normal normal normal 17px/28px Aria;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 30px 62px 5px 68px;
+    }
+
+    .cms-software-solution .font > *:nth-of-type(2n-1) {
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .font > *:nth-of-type(2n-1) {
+        font: normal normal normal 20px/34px Arial;
+    }
+
+    .cms-software-solution .syn > *:nth-of-type(2n-1) {
+        font: normal normal normal 14px/28px Arial;
+    }
+
+    .cms-software-solution .font > *:nth-of-type(2n-1) {
+        font: normal normal normal 17px/28px Arial;
+    }
+
+    .cms-software-solution .text-high-tech-solution {
+        text-align: left;
+        font: normal normal normal 17px/28px Arial;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 40px 50px 0px 63px;
+        margin-bottom: 40px;
+    }
+
+    .cms-software-solution .font > *:nth-of-type(2n-1) {
+        font: normal normal normal 17px/34px Arial;
+    }
+
+    .cms-software-solution .font.syn > *:nth-of-type(2n-1) {
+        font: normal normal normal 14px/28px Arial;
+    }
+}
+
+@media (max-width: 991px) {
+    .cms-software-solution .tab-list > * {
+        width: 100%;
+        position: relative;
+        text-align: center;
+        font: normal normal bold 23px/54px Arial;
+        letter-spacing: -0.46px;
+        text-transform: uppercase;
+        opacity: 1;
+        cursor: pointer;
+    }
+    .cms-software-solution .container.image-SDMS® {
+        display: block;
+    }
+    .cms-software-solution .selected {
+        color: #000000;
+    }
+    .cms-software-solution .tab-list .tab {
+        width: 100%;
+        position: relative;
+        color: #929292;
+        text-align: center;
+        letter-spacing: -0.46px;
+        text-transform: uppercase;
+        opacity: 1;
+        cursor: pointer;
+        font-weight: 700;
+    }
+    .cms-software-solution .container.image-SDMS® {
+        display: block;
+    }
+
+    .cms-software-solution .image1-.high-tech,
+    .cms-software-solution .image2-.high-tech {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .cms-software-solution .image1-.high-tech img,
+    .cms-software-solution .image2-.high-tech img {
+        width: 100%
+    }
+
+    .cms-software-solution .image-HIMS-ERPTM {
+        display: block;
+    }
+
+    .cms-software-solution .title-solution-HIMS-ERPTM,
+    .cms-software-solution .text-high-tech-solution {
+        padding: 20px
+    }
+
+    .cms-software-solution .image1-HIMS-IRSTM,
+    .cms-software-solution .image2-HIMS-IRSTM .image1HIMS-ERPTM,
+    .image2-HIMS-ERPTM {
+        padding: 30px 20px 20px 20px;
+    }
+
+    .cms-software-solution .image1-HIMS-IRSTM img,
+    .cms-software-solution .image2-HIMS-IRSTM img,
+    .image1HIMS-ERPTM img,
+    .image2-HIMS-ERPTM img {
+        width: 100%
+    }
+
+    .cms-software-solution .image-HIMS-IRSTM,
+    .cms-software-solution .image-high-tech {
+        display: block;
+    }
+
+    .cms-software-solution .title-solution-HIMS-IRSTM {
+        padding: 20px
+    }
+
+    .cms-software-solution .title-solution-HIMS-QMSTM {
+        padding: 20px
+    }
+
+    .cms-software-solution .text-solution-integration {
+        padding: 20px
+    }
+
+    div#tab-3 {
+        margin-top: 30px;
+    }
+
+    .cms-software-solution .text1-solution-SDMS® {
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 17px;
+    }
+
+    .cms-software-solution .text1-solution-HOCI® {
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 17px;
+    }
+
+    .cms-software-solution .image1-HOCI® img {
+        width: 100%;
+    }
+
+    .cms-software-solution .image2-HOCI® img {
+        width: 100%;
+    }
+
+    .cms-software-solution .text1-solution {
+        padding: 30px 20px;
+    }
+
+    .cms-software-solution .text2-solution {
+        padding-bottom: 0;
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+
+    .cms-software-solution .table-solution {
+        padding: 20px;
+    }
+
+    .cms-software-solution .content-business-best {
+        display: block;
+    }
+
+    .cms-software-solution .text-business-best {
+        max-width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .cms-software-solution .image-business-best img {
+        width: 95%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .cms-software-solution .image-business-best {
+        width: 100%;
+    }
+}
+
+@media (max-width: 649px) {
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: -80px;
+        margin-bottom: 15px;
+    }
+    .cms-software-solution .selected {
+        color: #000000;
+    }
+
+    .cms-software-solution .table-solution {
+        display: block;
+    }
+
+    .cms-software-solution .image-HIMS-QMSTM {
+        padding: 15px;
+        display: block;
+    }
+
+    .cms-software-solution .table-high-tech {
+        padding-bottom: 50px;
+        display: block;
+    }
+
+    .cms-software-solution .t-table-col {
+        width: 100%;
+    }
+
+    .cms-software-solution .tab-list > * {
+        width: 100%;
+        position: relative;
+        color: #929292;
+        text-align: center;
+        letter-spacing: -0.46px;
+        text-transform: uppercase;
+        opacity: 1;
+        cursor: pointer;
+    }
+
+    .cms-software-solution .tab-list {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 53px;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 70px;
+        flex-direction: column;
+    }
+
+    .cms-software-solution .title-solution {
+        letter-spacing: -0.66px;
+        color: #FFFFFF;
+        opacity: 1;
+        background: #DCB972 0% 0% no-repeat padding-box;
+        border-radius: 30px 30px 0px 0px;
+        padding: 13px 39px 13px;
+        display: flex;
+    }
+
+    .cms-software-solution .text1-business-best {
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+    }
+
+    .cms-software-solution .text2-business-best {
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        margin-bottom: 20px;
+    }
+
+    .cms-software-solution .table-solution {
+        align-self: center;
+        align-items: center;
+        text-align: center;
+        padding: 9px 20px 29px 20px;
+        display: block;
+        margin-top: 20px;
+        margin-bottom: -50px;
+    }
+
+    .cms-software-solution .text1-solution {
+        padding: 25px 29px 12px;
+    }
+
+    .cms-software-solution .container.image-SDMS® {
+        display: block;
+        padding: 15px;
+    }
+
+    .cms-software-solution .t-business-best.hoci > *:nth-of-type(3) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 11px 21px 11px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .cms-software-solution .t-business-best.hoci > *:nth-of-type(1) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 24px 15px 24px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .cms-software-solution .text2-solution {
+        padding: 4px 27px 15px 28px;
+    }
+
+    .cms-software-solution .t-business-best {
+        border: 1px solid #DCB972;
+        margin-bottom: 50px;
+    }
+
+    .cms-software-solution .image1-SDMSÂ® {
+        padding: 16px 13px 25px 4.5px;
+    }
+
+    .cms-software-solution .t-table-col > :first-child {
+        background: #DCB972 0% 0% no-repeat padding-box;
+        opacity: 1;
+        line-height: 1.2;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 15px 17px 15px;
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    .cms-software-solution .t-business-best > *:nth-of-type(2n-1) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 8.5px 6px 8.5px;
+        text-align: center;
+        font-size: 14px;
+        height: auto !important;
+        line-height: 30px;
+    }
+
+    .cms-software-solution .t-business-best.col > *:nth-of-type(2n) {
+        background: #f3f3f3;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 18px 30px 18px;
+        text-align: center;
+        height: auto !important;
+    }
+
+    .cms-software-solution .col > *:nth-of-type(1) {
+        height: auto !important;
+    }
+
+    .cms-software-solution .t-business-best.solution > *:nth-of-type(2n-1) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 18.5px 40px 18.5px;
+        text-align: center;
+        height: auto !important;
+    }
+
+    .cms-software-solution .t-business-best.solution > *:nth-of-type(2n) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 15px 16px 15px;
+        text-align: center;
+        font-size: 14px;
+        height: auto !important;
+    }
+
+    .cms-software-solution .solution-SDMS {
+        background: #F3F3F3 0% 0% no-repeat padding-box;
+        opacity: 1;
+        height: 99px;
+        margin-bottom: 20px;
+        letter-spacing: -0.62px;
+        color: #171717;
+        display: flex;
+        padding: 12px 7px 12px;
+    }
+
+    .cms-software-solution .title-solution-SDMS {
+        background: #F3F3F3 0% 0% no-repeat padding-box;
+        opacity: 1;
+        height: 99px;
+        margin-bottom: 30px;
+        letter-spacing: -0.62px;
+        color: #171717;
+        /* opacity: 1; */
+        display: flex;
+        align-self: center;
+        /* align-items: center; */
+        padding: 12px 30px 12px;
+    }
+
+    .cms-software-solution span.sdms {
+        padding: 0px 15px 10px 15px;
+    }
+
+    .cms-software-solution span.hoci {
+        padding: 0px 15px 10px 15px;
+    }
+
+    .cms-software-solution .title-solution-SDMS {
+        background: #F3F3F3 0% 0% no-repeat padding-box;
+        opacity: 1;
+        height: 99px;
+        margin-bottom: 30px;
+        /* text-align: left; */
+        letter-spacing: -0.62px;
+        color: #171717;
+        /* opacity: 1; */
+        display: flex;
+        align-self: center;
+        /* align-items: center; */
+        padding: 12px 30px 12px;
+    }
+
+    .cms-software-solution .text1-solution-SDMSÂ® {
+        padding: initial;
+    }
+
+    .cms-software-solution .image2-SDMSÂ® {
+        /* padding: 60px 69px 34px 110px; */
+        padding: 0;
+    }
+
+    .cms-software-solution .text1-solution-HOCIÂ® {
+        height: 124px;
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 4px 8px 0 48px;
+        /* margin: 92px; */
+        margin-bottom: 200px;
+        /* margin-top: 10px; */
+    }
+
+    .cms-software-solution .image1-HOCIÂ® {
+        /* width: 100%; */
+        padding: 15px 16px 18px 8px;
+        /* margin-bottom: 13px; */
+    }
+
+    .cms-software-solution .title-solution-integration31 {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        background: #F3F3F3 0% 0% no-repeat padding-box;
+        padding: 15.5px 28px 15.5px;
+        display: flex;
+    }
+
+    .cms-software-solution span.toms {
+        padding-left: 25px;
+    }
+
+    .cms-software-solution .text-solution-integration {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 29px 14px 5px 39px;
+    }
+
+    .cms-software-solution .title-solution-HIMS-QMSTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 19px 38px 12px;
+        display: flex;
+    }
+
+    .cms-software-solution span.qmstm {
+        padding-left: 20px;
+    }
+
+    .cms-software-solution .image1-HIMS-QMSTM {
+        width: 100%;
+        padding: 6px 5px 9px 5px;
+    }
+
+    .cms-software-solution .image2-HIMS-QMSTM {
+        padding: 25px 13px 14px 13px;
+        width: 100%;
+    }
+
+    .cms-software-solution .title-solution-HIMS-IRSTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        padding: 7px 26px 37px;
+        display: flex;
+    }
+
+    .cms-software-solution span.irtm {
+        padding-left: 20px;
+    }
+
+    .cms-software-solution .image1-HIMS-IRSTM {
+        padding: 10px 14px 25px 17px;
+    }
+
+    .cms-software-solution .image2-HIMS-IRSTM {
+        padding: 12px 22px 0px 28px;
+    }
+
+    .cms-software-solution .title-solution-HIMS-ERPTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 0 21px 27px;
+        display: flex;
+    }
+
+    .cms-software-solution span.erptm {
+        padding-left: 20px;
+        display: flow-root;
+    }
+
+    .cms-software-solution .title-solution-high-tech {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        background: #F3F3F3 0% 0% no-repeat padding-box;
+        opacity: 1;
+        padding: 15.5px 17px 15.5px;
+        display: flex;
+    }
+
+    .cms-software-solution span.high-tech {
+        padding-left: 20px;
+    }
+
+    .cms-software-solution .text-high-tech-solution {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 37px 17px 24px 26px;
+    }
+
+    .cms-software-solution .image1-.high-tech {
+        padding: 7px 19px 8px 19px;
+        width: 100%;
+    }
+
+    .cms-software-solution .image2-.high-tech {
+        padding: 11px 19px 20px 19px;
+    }
+
+    .cms-software-solution .t-business-best.hoci > *:nth-of-type(2) {
+        height: 170px;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 18px 20px 18px;
+        text-align: center;
+        height: auto !important;
+    }
+
+    .cms-software-solution .t-business-best.hoci > *:nth-of-type(3) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 11px 21px 11px;
+        text-align: center;
+        height: auto !important;
+    }
+
+    .cms-software-solution .text-solution-SDMSÂ® {
+        padding: 9px 20px 1px 41px;
+    }
+
+    .cms-software-solution .table-business-best.table-solution {
+        align-self: center;
+        align-items: center;
+        text-align: center;
+        /* padding: 9px 63px 40px 63px; */
+        display: block;
+        padding-bottom: 80px;
+    }
+
+    .cms-software-solution .image2-.high-tech {
+        padding: inherit;
+        margin-top: -15px;
+    }
+
+    .cms-software-solution .image1-.high-tech {
+        padding: inherit;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .cms-software-solution .tab-list {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 15px;
+    }
+    .cms-software-solution .text-business-best {
+        margin-top: 20px;
+        padding-left: 21px;
+        padding-right: 15px;
+        width: 100%;
+        max-width: 778px;
+    }
+    .cms-software-solution .content-business-best {
+        display: block;
+        margin-top: 19px;
+        justify-content: center;
+    }
+    .cms-software-solution .image-business-best {
+        width: 100%;
+        padding-bottom: 20px;
+        display: flex;
+    }
+    .cms-software-solution .text1-solution-HOCIÂ® {
+        height: 124px;
+        text-align: left;
+        letter-spacing: 0.4px;
+        color: #171717;
+        opacity: 1;
+        padding: 4px 69px 0 65px;
+        /* margin: 92px; */
+        margin-bottom: 100px;
+    }
+
+    .cms-software-solution .text-high-tech-solution {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 40px 50px 0px 23px;
+        margin-bottom: 70px;
+    }
+
+    .cms-software-solution .t-business-best > *:nth-of-type(2n-1) {
+        height: 132px;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 21.5px 6px 21.5px;
+        text-align: center;
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .cms-software-solution .t-business-best > *:nth-of-type(2n) {
+        background: #f3f3f3;
+        height: 131px;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 32px 47px 32px;
+        text-align: center;
+    }
+
+    .cms-software-solution .t-business-best.solution > *:nth-of-type(2n) {
+        height: 131px;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 15px 46px 15px;
+        text-align: center;
+    }
+
+    .cms-software-solution .t-business-best.solution > *:nth-of-type(3) {
+        height: 132px;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 15px 50px 15px;
+        text-align: center;
+    }
+
+    .cms-software-solution .t-business-best.hoci > *:nth-of-type(3) {
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 11px 21px 11px;
+        text-align: center;
+    }
+
+    .cms-software-solution .t-business-best.hoci > *:nth-of-type(2) {
+        height: 170px;
+        display: grid;
+        align-self: center;
+        align-items: center;
+        padding: 18px 20px 18px;
+        text-align: center;
+    }
+
+    .cms-software-solution .image-SDMSÂ® {
+        /* display: flex; */
+        display: block;
+    }
+
+    .cms-software-solution .image1-SDMSÂ® {
+        padding: 74px 60px 48px 52.5px;
+        margin-top: -50px;
+        margin-bottom: -50px;
+    }
+
+    .cms-software-solution .image2-SDMSÂ® {
+        /* padding: 60px 69px 34px 110px; */
+        padding: 0;
+    }
+
+    .cms-software-solution .image2-HOCIÂ® {
+        margin-top: -5px;
+        margin-left: 21px;
+    }
+
+    .cms-software-solution .image2-HIMS-IRSTM {
+        padding: 10px 80px 20px 46px;
+        margin-top: -20px;
+        margin-bottom: -70px;
+    }
+
+    .cms-software-solution .image1HIMS-ERPTM {
+        margin-top: -30px;
+    }
+
+    .cms-software-solution .image2-HIMS-ERPTM {
+        margin-bottom: -30px;
+    }
+
+    .cms-software-solution .image1-HOCIÂ® {
+        padding: 17px 78px 20px 83px;
+    }
+
+    .cms-software-solution .image1-HIMS-QMSTM {
+        /* width: 50%; */
+        padding: 15px 28px 13px 25px;
+        margin-top: -30px;
+    }
+
+    .cms-software-solution .image2-HIMS-QMSTM {
+        padding: 25px 27px 48px 37px;
+        margin-bottom: -70px;
+    }
+
+    .cms-software-solution .image-HIMS-QMSTM {
+        /* display: flex; */
+        /* padding: 30px; */
+        display: block;
+    }
+
+    .cms-software-solution .image1-HIMS-IRSTM {
+        padding: 10px 42px 32px 44px;
+    }
+
+    .cms-software-solution .image-HIMS-IRSTM {
+        /* display: flex; */
+        /* padding-bottom: 50px; */
+        display: block;
+    }
+
+    .cms-software-solution .table-HIMS-ERPTM {
+        padding-bottom: 50px;
+        /* display: flex; */
+    }
+
+    .cms-software-solution .image-HIMS-ERPTM {
+        /* display: flex; */
+        /* padding-bottom: 40px; */
+        display: block;
+    }
+
+    .cms-software-solution .image1-.high-tech {
+        padding: inherit;
+        width: 100%;
+    }
+
+    .cms-software-solution .image2-.high-tech {
+        padding: inherit;
+        margin-top: -15px;
+    }
+
+    .cms-software-solution .image-high-tech {
+        display: block;
+        padding-bottom: 50px;
+        margin-top: 50px;
+        padding-left: 20px;
+    }
+    .cms-software-solution .image1-.high-tech img, .cms-software-solution .image2-.high-tech img {
+        width: 90%;
+    }
+
+    .cms-software-solution .image-HOCIÂ® {
+        display: block;
+        padding-bottom: 50px;
+    }
+
+    .cms-software-solution .tab-list > * {
+        width: 100%;
+        position: relative;
+        color: #000000;
+        text-align: center;
+        letter-spacing: -0.46px;
+        text-transform: uppercase;
+        opacity: 1;
+        cursor: pointer;
+        margin-top: auto;
+    }
+
+    .cms-software-solution .title-solution-SDMS {
+        background: #F3F3F3 0% 0% no-repeat padding-box;
+        opacity: 1;
+        height: 99px;
+        margin-bottom: 30px;
+        /* text-align: left; */
+        letter-spacing: -0.62px;
+        color: #171717;
+        /* opacity: 1; */
+        display: flex;
+        align-self: center;
+        align-items: center;
+        padding: 12px 30px 12px;
+        margin-top: 25px;
+    }
+
+    .cms-software-solution .table-business-best.table-solution {
+        align-self: center;
+        align-items: center;
+        text-align: center;
+        padding-bottom: 80px;
+    }
+
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: -40px;
+        margin-bottom: 15px;
+    }
+
+    .cms-software-solution .text-content.cont-hoci {
+        margin-bottom: 15px;
+        margin-top: -40px;
+    }
+
+    .cms-software-solution .container.image-HOCI® {
+        display: block;
+        padding-left: 10px;
+    }
+
+    .cms-software-solution .text-content {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: -50px;
+        padding: 1px 18px 40px;
+        margin-bottom: 12px;
+    }
+
+}
+
+@media (max-width: 376px) {
+    .cms-software-solution .text-content {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: -100px;
+        padding: 1px 35px 35px;
+        margin-bottom: 12px;
+    }
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: -80px;
+        margin-bottom: 11px;
+        /* padding-left: 5px; */
+        margin-right: 3px;
+    }
+
+    .cms-software-solution .title-solution-HIMS-ERPTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 0 21px 27px;
+        display: flex;
+        margin-top: 20px;
+    }
+    .cms-software-solution .title-solution-HIMS-IRSTM {
+        margin-top: 20px;
+    }
+    .cms-software-solution .text-content.cont-hoci {
+        margin-bottom: 15px;
+        margin-right: -2px;
+        margin-top: -40px;
+    }
+    .cms-software-solution .tab-list {
+        display: revert;
+        justify-content: space-around;
+        margin-bottom: 53px;
+        text-align: center;
+        flex-wrap: wrap;
+
+    }
+
+    .cms-software-solution .tab-list > * {
+        width: 100%;
+        position: relative;
+        text-align: center;
+        font: normal normal bold 20px/54px Arial;
+        letter-spacing: -0.46px;
+        text-transform: uppercase;
+        opacity: 1;
+        cursor: pointer;
+        margin: auto;
+    }
+
+    .cms-software-solution .table-business-best.table-solution {
+        align-self: center;
+        align-items: center;
+        text-align: center;
+        /* padding: 9px 63px 40px 63px; */
+        display: block;
+        padding-bottom: 80px;
+    }
+    .cms-software-solution .selected {
+        color: #000000;
+    }
+    .cms-software-solution .text-content {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: -100px;
+        padding: 1px 35px 40px;
+        margin-bottom: 12px;
+    }
+
+}
+@media (max-width: 415px) {
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: -80px;
+        margin-bottom: 15px;
+    }
+    .cms-software-solution .title-solution-HIMS-ERPTM {
+        text-align: left;
+        letter-spacing: 0px;
+        color: #171717;
+        opacity: 1;
+        padding: 0 21px 27px;
+        display: flex;
+        margin-top: 20px;
+    }
+    .cms-software-solution .text-content {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: -100px;
+        padding: 1px 18px 40px;
+        margin-bottom: 12px;
+    }
+}
