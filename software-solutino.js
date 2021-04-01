@@ -38,7 +38,6 @@ require([
         });
 
 
-
         if( jQuery('.cms-software-solution').length ) {
             (function(){
                 let breakTab = 991;
