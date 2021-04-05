@@ -10,7 +10,13 @@
     text-align: center;
     font-weight: 700;
 }
-
+.cms-software-solution .container {
+    /* width: 100%;
+    max-width: 1440px; */
+    padding: 0px 20px;
+    /* margin-right: auto;
+    margin-left: auto; */
+}
 .cms-software-solution span.base {
     color: #fff;
 }
@@ -32,7 +38,7 @@
     max-width: 100%;
     font-weight: bold;
     height: 55px;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 27px;
     border: 1px solid #001e36;
     border-radius: 30px;
@@ -97,15 +103,20 @@
 
 .cms-software-solution .container.image-SDMS® {
     display: flex;
-    padding: 20px 46px;
+    padding: 60px 46px;
+    margin-bottom: -25px;
+
 }
 
 .cms-software-solution .text1-solution-SDMS® {
-    padding: 9px 63px 40px 63px;
-}
+    padding: 25px 63px 40px 63px;
+    margin-bottom: -50px;
 
+}
 .text1-solution-HOCI® {
     padding: 9px 63px 40px 63px;
+    margin-bottom: -40px;
+    margin-top: 45px;
 }
 
 .cms-software-solution .t-table-col {
@@ -304,6 +315,8 @@
 
 .cms-software-solution .text2-solution {
     padding: 4px 180px 40px 170px;
+    margin-bottom: -60px;
+
 }
 
 .cms-software-solution .text2-solution li {
@@ -385,10 +398,6 @@
 
 .cms-software-solution .text1-solution {
     padding: 30px 68px 18px;
-}
-
-.cms-software-solution .text1-solution-SDMSÂ® {
-    /* padding: 60px 39px 20px 131px; */
 }
 
 .cms-software-solution .table-SDMSÂ® {
@@ -720,7 +729,7 @@
 
 
 
-.cms-software-solution .box_banner .link_bn_bt:before {
+.cms-software-solution .box_banner .link_bn_bt :before {
     content: '';
     background: url(../images/caret-button.svg) no-repeat center;
     width: 11px;
@@ -728,6 +737,15 @@
     position: absolute;
     right: 18px;
     z-index: 1;
+    top: 19px;
+}
+.cms-software-solution .box_banner .link_bn_bt:hover:before {
+    content: '';
+    background: url(../images/caret-gold.svg) no-repeat center;    width: 11px;
+    height: 14px;
+    position: absolute;
+    right: 18px;
+    z-index: 3;
     top: 19px;
 }
 
@@ -797,10 +815,16 @@
     text-align: center;
     flex-wrap: wrap;
     margin-top: 50px;
+    width: 100%;
 }
 
 .cms-software-solution.sticky .tab-list {
     margin-top: 0px;
+    width: calc(100% - 40px);
+    max-width: 1400px;
+    left: 0px;
+    padding: 0;
+    right: 0;
 }
 
 
@@ -873,15 +897,6 @@
 .cms-software-solution span.assist {
     padding-left: 50px;
 }
-
-.cms-software-solution span.sdms {
-    padding: 10px 20px 10px 80px;
-}
-
-.cms-software-solution span.hoci {
-    padding: 10px 20px 10px 80px;
-}
-
 .cms-software-solution span.intergration {
     padding-left: 90px;
 }
@@ -956,6 +971,15 @@ div#tab-3 {
     margin-left: auto;
     margin-bottom: 100px;
 }
+.cms-software-solution .tab-list> .tab.active:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    bottom: 8px;
+    background: #000 0% 0% no-repeat padding-box;
+}
 
 .cms-software-solution .t-table-col> :first-child {
     background: #DCB972 0% 0% no-repeat padding-box;
@@ -982,9 +1006,11 @@ div#tab-3 {
 }
 
 .cms-software-solution .content-business-best {
-    display: flex;
-    margin-top: 19px;
-    justify-content: center;
+    display: flex !important;
+    margin-top: 19px !important;
+    justify-content: center !important;
+    margin-bottom: 40px !important;
+
 }
 
 .cms-software-solution .t-business-best {
@@ -1026,7 +1052,7 @@ div#tab-3 {
     display: flex;
     justify-content: flex-end;
     margin-top: 15px;
-    padding: 0px 58px 40px;
+    padding: 0px 58px 40px !important;
     margin-bottom: 12px;
 }
 
@@ -1142,12 +1168,12 @@ div#tab-3 {
     align-items: center;
     text-align: center;
     display: flex;
-    margin-top: -6px;
+    margin-top: 40px;
 }
 
 .cms-software-solution .container.image-HOCI® {
-    display: flex;
-    padding-left: 100px;
+    display: flex !important;
+    padding-left: 100px !important;
 }
 
 .cms-software-solution .image2-HOCI® {
@@ -1178,6 +1204,7 @@ div#tab-3 {
     align-self: center;
     align-items: center;
     padding: 12px 30px 12px;
+    margin-top: 50px;
 }
 
 .cms-software-solution .title-solution-integration31 {
@@ -1303,6 +1330,8 @@ div#tab-3 {
 .cms-software-solution .image-HIMS-QMSTM {
     display: flex;
     padding: 30px;
+    margin-bottom: -20px;
+
 }
 
 .cms-software-solution .title-solution-HIMS-IRSTM {
@@ -1310,17 +1339,18 @@ div#tab-3 {
     font: normal normal bold 22px/34px Arial;
     letter-spacing: 0px;
     color: #171717;
-    padding: 40px 64px 37px;
+    padding: 40px 64px 30px;
 }
 
 .cms-software-solution .image-HIMS-IRSTM {
     display: flex;
-    padding-bottom: 50px;
+    margin-bottom: -65PX;
 }
 
 .cms-software-solution .table-HIMS-IRSTM {
     padding-bottom: 50px;
     display: flex;
+    margin-top: 10px;
 }
 
 .cms-software-solution .title-solution-HIMS-ERPTM {
@@ -1331,6 +1361,8 @@ div#tab-3 {
     opacity: 1;
     padding: 40px 64px 37px;
     display: flex;
+    margin-bottom: -40px;
+
 }
 
 .cms-software-solution .image-HIMS-ERPTM {
@@ -1557,9 +1589,6 @@ div#tab-3 {
     text-transform: uppercase;
     margin: 0 10px;
 }
-.cms-software-solution .box_banner .link_bn_bt:hover::before {
-    background: url(../images/caret-button-hover.svg) no-repeat center;
-}
 
 .cms-software-solution .box_banner .link_bn_bt:hover {
     color: #DCB972;
@@ -1568,13 +1597,13 @@ div#tab-3 {
     background-color: transparent;
     border: 1px solid #dcb972;
 }
-.cms-software-solution .box_banner .link_bn_bt:hover:after {
+.cms-software-solution .box_banner .link_bn_bt a:hover:after {
     background: transparent;
     border: 1px solid #dcb972;
-    top: 1px;
+    top: 1px !important;
 }
 
-.cms-software-solution .box_banner .link_bn_bt:before {
+.cms-software-solution .box_banner .link_bn_btn :before {
     content: '';
     background: url(../images/caret-button.svg) no-repeat center;
     width: 11px;
@@ -1585,7 +1614,7 @@ div#tab-3 {
     top: 19px;
 }
 
-.cms-software-solution .box_banner .link_bn_bt:after {
+.cms-software-solution .box_banner .link_bn_bt a:after {
     content: '';
     width: 49px;
     height: 49px;
@@ -1594,11 +1623,28 @@ div#tab-3 {
     border-radius: 50%;
     background: #fff;
     right: 2px;
-    top: 2px;
+    top: 1px !important;
+    border: 1px solid #fff;
+}
+.cms-software-solution .box_banner .link_bn_bt:hover a:after {
+    background: transparent !important;
+    border: 1px solid #dcb972 !important;
+}
+
+.cms-software-solution .box_banner .link_bn_bt a:hover:after {
+    content: '';
+    width: 49px;
+    height: 49px;
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 29%);
+    position: absolute;
+    border-radius: 50%;
+    border: 1px solid #dcb972;
+    background-color: transparent;
+    right: 2px;
+    top: 1px;
 }
 .cms-software-solution .text-content a:hover {
-
-    background:  #DCB972;
+    background: #ffff;
     box-shadow: none !important;
     padding: 7px 80px 7px 30px;
     display: inline-flex;
@@ -1607,14 +1653,13 @@ div#tab-3 {
     min-width: 220px;
     text-transform: uppercase;
     border: 1px solid #dcb972;
+    color: #dcb972;
 }
 .cms-software-solution .text-content a:hover:after {
     background: transparent;
     top: 1px;
 }
-.cms-software-solution .text-content a:hover:before {
-    background: url(../images/caret-button.svg) no-repeat center;
-}
+
 
 
 .cms-software-solution .t-business-best>*:nth-of-type(2n-1) {
@@ -1772,13 +1817,22 @@ div#tab-3 {
     border-top: none !important;
 }
 
+@media (max-width: 769px) {
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .cms-software-solution  h5.hp{
+        display: flex;
+    }
+
+}
 @media (min-width: 769px) and (max-width: 1080px) {
     .cms-software-solution .text1-business-best {
         letter-spacing: 0px;
         color: #171717;
         opacity: 1;
     }
-
 
     .cms-software-solution p{
         font-size: 20px;
@@ -1789,25 +1843,28 @@ div#tab-3 {
         letter-spacing: 0px;
         color: #171717;
         opacity: 1;
-        padding: 0 21px 27px;
+        padding: 0 62px 27px;
         display: flex;
+        margin-bottom: -30px;
     }
-
     .cms-software-solution .title-solution-HIMS-QMSTM {
         text-align: left;
         letter-spacing: 0px;
         color: #171717;
         opacity: 1;
-        padding: 19px 38px 12px;
+        padding: 19px 62px 12px;
         display: flex;
+        margin-bottom: 30px;
     }
 
     .cms-software-solution .title-solution-HIMS-IRSTM {
         text-align: left;
         letter-spacing: 0px;
         color: #171717;
-        padding: 7px 26px 36px;
+        padding: 7px 62px 36px;
         display: flex;
+        /* margin-top: 6px; */
+        margin-bottom: 20px;
     }
 
     .cms-software-solution .title-solution-integration31 {
@@ -1922,7 +1979,16 @@ div#tab-3 {
 }
 
 @media (max-width: 991px) {
-
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    .cms-software-solution span.mnt {
+        padding: 10px;
+    }
+    .cms-software-solution span.ctn {
+        padding: 10px;
+    }
     .cms-software-solution .tab-list .selected:after {
         content: '\f107';
         font-family: 'FontAwesome';
@@ -1992,7 +2058,8 @@ div#tab-3 {
 
     .cms-software-solution .title-solution-HIMS-ERPTM,
     .cms-software-solution .text-high-tech-solution {
-        padding: 20px
+        padding: 20px;
+
     }
 
     .cms-software-solution .image1-HIMS-IRSTM,
@@ -2014,7 +2081,9 @@ div#tab-3 {
     }
 
     .cms-software-solution .title-solution-HIMS-IRSTM {
-        padding: 20px
+        padding: 20px;
+        margin-top: 30px;
+
     }
 
     .cms-software-solution .title-solution-HIMS-QMSTM {
@@ -2024,6 +2093,10 @@ div#tab-3 {
     .cms-software-solution .text-solution-integration {
         padding: 20px
     }
+    .cms-software-solution .title-solution-HIMS-ERPTM {
+        padding: 20px;
+        margin-top: 40px;
+    }
 
     div#tab-3 {
         margin-top: 30px;
@@ -2032,7 +2105,6 @@ div#tab-3 {
     .cms-software-solution .text1-solution-SDMS® {
         padding-left: 20px;
         padding-right: 20px;
-        font-size: 17px;
     }
 
     .cms-software-solution .text1-solution-HOCI® {
@@ -2056,6 +2128,8 @@ div#tab-3 {
         padding-bottom: 0;
         padding-left: 30px;
         padding-right: 20px;
+        margin-bottom: 20px;
+
     }
 
     .cms-software-solution .table-solution {
@@ -2063,7 +2137,7 @@ div#tab-3 {
     }
 
     .cms-software-solution .content-business-best {
-        display: block;
+        display: block !important;
     }
 
     .cms-software-solution .text-business-best {
@@ -2083,12 +2157,15 @@ div#tab-3 {
     }
 }
 
-@media (max-width: 649px) {
+@media (max-width: 676px) {
     .cms-software-solution .text-content.text-high-tech {
         margin-top: -80px;
         margin-bottom: 15px;
     }
-
+    .cms-software-solution span.hoci.chan {
+        padding: 10px 20px 10px 35px;
+        display: initial;
+    }
     .cms-software-solution .selected {
         color: #000000;
     }
@@ -2212,7 +2289,7 @@ div#tab-3 {
         display: grid;
         align-self: center;
         align-items: center;
-        padding: 15px 17px 15px;
+        padding: 30px 17px 25px 17px !important;
         color: #FFFFFF;
         text-align: center;
         font-weight: 700 !important;
@@ -2288,11 +2365,11 @@ div#tab-3 {
     }
 
     .cms-software-solution span.sdms {
-        padding: 0px 15px 10px 15px;
+        padding: 11px 15px 10px 15px;
     }
 
     .cms-software-solution span.hoci {
-        padding: 0px 15px 10px 15px;
+        padding: 11px 15px 10px 15px;
     }
 
     .cms-software-solution .title-solution-SDMS {
@@ -2432,6 +2509,7 @@ div#tab-3 {
         opacity: 1;
         padding: 15.5px 17px 15.5px;
         display: flex;
+        font-size: 23px;
     }
 
     .cms-software-solution span.high-tech {
@@ -2497,11 +2575,87 @@ div#tab-3 {
         width: 100%;
     }
 }
+@media (max-width: 991px) {
+    .cms-software-solution .text-high-tech-solution {
+        margin-bottom: 10px !important;
+    }
+    .cms-software-solution .tab-list {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        flex-wrap: wrap;
+        margin-top: 50px;
+        width: 100%;
+    }
+    .cms-software-solution  .tab.active {
+        border-bottom: 2px solid #001e36 !important;
+    }
+    .cms-software-solution  .tab {
+        border-bottom: 2px solid #929292 !important;
+    }
+    .cms-software-solution .t-business-best.solution>*:nth-of-type(2n-1) {
 
-@media (max-width: 768px) {
+        padding: 19px 25px 19px;
+
+    }
+    .cms-software-solution .t-business-best.solution>*:nth-of-type(4) {
+
+        padding: 15.5px 19px 15.5px;
+    }
+    .cms-software-solution .t-business-best.solution>*:nth-of-type(2n) {
+
+        padding: 15.5px 19px 15.5px;
+
+    }
+    .cms-software-solution .t-business-best.solution>*:nth-of-type(3) {
+
+        padding: 15px 19px 15px;
+    }
+    .cms-software-solution .t-business-best>*:nth-of-type(2n) {
+
+        padding: 15px 19px 15px;
+    }
+    .cms-software-solution span.chan {
+        padding-left: 35px;
+    }
+    .cms-software-solution .text-content {
+
+        padding: 0px 25px 40px !important;
+    }
+}
+@media (max-width: 767px) {
+    .cms-software-solution .title-solution-HIMS-ERPTM {
+        font-size: 19px;
+        margin-bottom: -10px;
+        margin-top: 70px !important;
+    }
+    .cms-software-solution .th-col.irs {
+        font-size: 15px;
+        padding: 26px;
+    }
+    .cms-software-solution .th-col.betc {
+        padding: 24px 17px 11.5px 17px !important;
+    }
+    .cms-software-solution .th-col.inte {
+        padding: 24px 17px 11.5px 17px !important;
+    }
+    .cms-software-solution .th-col.irs {
+        padding: 25px 17px 22.5px 17px !important;
+    }
+    .cms-software-solution .th-col.sol {
+        padding: 21.5px 17px 18.5px 17px !important;
+    }
     .cms-software-solution .title-solution-integration31 {
         font-size: 23px;
     }
+    .cms-software-solution .text-content {
+        display: flex;
+        justify-content: flex-end;
+        margin-top: 15px;
+        padding: 0px 23px 40px;
+        margin-bottom: 12px;
+    }
+
     .cms-software-solution .title-solution-HIMS-QMSTM {
         font-size: 19px;
     }
@@ -2524,6 +2678,8 @@ div#tab-3 {
     }
     .cms-software-solution .th-col.sol {
         font: normal normal bold 15px/25px Arial;
+        padding: 20px;
+
     }
     .cms-software-solution .tab-list {
         display: flex;
@@ -2572,7 +2728,7 @@ div#tab-3 {
         letter-spacing: 0px;
         color: #171717;
         opacity: 1;
-        padding: 40px 50px 0px 23px;
+        padding: 40px 21px 0px 23px;
         margin-bottom: 70px;
     }
 
@@ -2680,7 +2836,7 @@ div#tab-3 {
     .cms-software-solution .image1-HIMS-QMSTM {
         /* width: 50%; */
         padding: 15px 28px 13px 25px;
-        margin-top: -30px;
+        margin-top: 15px;
     }
 
     .cms-software-solution .image2-HIMS-QMSTM {
@@ -2743,7 +2899,7 @@ div#tab-3 {
     }
 
     .cms-software-solution .tab-list>* {
-        width: 100%;
+        width:100%;
         position: relative;
         color: #000000;
         text-align: center;
@@ -2752,7 +2908,9 @@ div#tab-3 {
         opacity: 1;
         cursor: pointer;
         margin-top: auto;
+        font-size: 20px;
     }
+
 
     .cms-software-solution .title-solution-SDMS {
         background: #F3F3F3 0% 0% no-repeat padding-box;
@@ -2788,8 +2946,8 @@ div#tab-3 {
     }
 
     .cms-software-solution .container.image-HOCI® {
-        display: block;
-        padding-left: 10px;
+        display: block !important;
+        padding-left: 10px !important;
     }
 
     .cms-software-solution .text-content {
@@ -2803,6 +2961,33 @@ div#tab-3 {
 }
 
 @media (max-width: 376px) {
+    .cms-software-solution .text-content.cont-hoci.hiht {
+        margin-bottom: 15px;
+        margin-top: -90px;
+        padding:  29px !important;
+    }
+    .cms-software-solution .text-content.text-high-tech.hiht {
+        margin-top: -120px !important;
+        margin-bottom: 15px !important;
+        padding: 29px !important;
+    }
+
+    .cms-software-solution .th-col.sol {
+        font: normal normal bold 15px/25px Arial;
+        padding: 21px !important;
+    }
+    .cms-software-solution .title-solution-HIMS-QMSTM {
+        font-size: 19px !important;
+        margin-bottom: -30px !important;
+    }
+    .cms-software-solution span.hoci.chan {
+        padding: 10px 20px 10px 20px;
+        display: initial;
+    }
+    .cms-software-solution span.sdms.chan {
+        padding: 10px 20px 10px 20px;
+        display: initial;
+    }
     .cms-software-solution .text-content {
         display: flex;
         justify-content: flex-end;
@@ -2821,6 +3006,8 @@ div#tab-3 {
         margin-bottom: 11px;
         /* padding-left: 5px; */
         margin-right: 3px;
+        padding: 30px;
+
     }
 
     .cms-software-solution .title-solution-HIMS-ERPTM {
@@ -2830,24 +3017,26 @@ div#tab-3 {
         opacity: 1;
         padding: 0 21px 27px;
         display: flex;
-        margin-top: 20px;
+        margin-top: 80px;
+        margin-bottom: -40px !important;
     }
 
     .cms-software-solution .title-solution-HIMS-IRSTM {
-        margin-top: 20px;
+        margin-top: 60px !important;
+        margin-bottom: -50px !important;
     }
 
     .cms-software-solution .text-content.cont-hoci {
-        margin-bottom: 15px;
-        margin-right: -2px;
-        margin-top: -40px;
-        padding: 1px 30px 25px 1px;
+        margin-bottom: 15px !important;
+        margin-right: -2px !important;
+        margin-top: -40px !important;
+        padding: 1px 30px 25px 1px !important;
     }
 
     .cms-software-solution .text-content.text-high-tech {
-        margin-top: -80px;
-        margin-bottom: 15px;
-        padding: 1px 28px 25px 1px;
+        margin-top: -80px !important;
+        margin-bottom: 15px !important;
+        padding: 1px 28px 25px 1px !important;
     }
 
     .cms-software-solution .tab-list {
@@ -2856,6 +3045,7 @@ div#tab-3 {
         margin-bottom: 53px;
         text-align: center;
         flex-wrap: wrap;
+        width: 100%;
 
     }
 
@@ -2895,9 +3085,23 @@ div#tab-3 {
 }
 
 @media (max-width: 415px) {
+    .cms-software-solution .title-solution-HIMS-IRSTM {
+        margin-bottom: -15px !important;
+    }
+
+    .cms-software-solution .table-solution {
+        margin-top: 27px !important;
+        margin-bottom: -50px !important;
+    }
     .cms-software-solution .text-content.text-high-tech {
-        margin-top: -80px;
+        margin-top: -120px !important;
+        margin-bottom: 15px !important;
+        padding: 49px !important;
+    }
+    .cms-software-solution .text-content.cont-hoci {
         margin-bottom: 15px;
+        margin-top: -90px;
+        padding: 46px !important;
     }
     .cms-software-solution span.hoci {
         padding: 0px 0 0px 22px;
@@ -2913,7 +3117,9 @@ div#tab-3 {
         opacity: 1;
         padding: 0 21px 27px;
         display: flex;
-        margin-top: 20px;
+        margin-top: 80px !important;
+        margin-bottom: 10px !important
+
     }
 
     .cms-software-solution .text-content {
@@ -2922,26 +3128,141 @@ div#tab-3 {
         margin-top: -100px;
         padding: 1px 54px 40px;
         margin-bottom: 12px;
+
     }
 
-    .text-content.tatm {
-        padding: 1px 54px 40px;
+    .cms-software-solution .text-content.tatm {
+        padding: 1px 50px 40px 1px !important;
     }
 
 }
 
-@media (max-width: 320px) {
+@media (max-width: 321px) {
+    .cms-software-solution .text-content.cont-hoci.hiht {
+        margin-bottom: 15px;
+        margin-top: -90px;
+        padding: 22px !important;
+    }
+    .cms-software-solution .text-content.text-high-tech.hiht {
+        margin-top: -120px !important;
+        margin-bottom: 15px !important;
+        padding: 20px !important;
+    }
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: -120px;
+        margin-bottom: 15px;
+        padding: 49px 21px !important;
+    }
     .cms-software-solution .text-content span {
         font-size: 13px;
     }
+    .cms-software-solution .text-content.text-high-tech {
+        padding: 1px 19px 25px 1px;
+    }
+    .cms-software-solution .text-content.cont-hoci {
+        padding: 16px 23px 25px 1px !important;
+
+    }
+    .cms-software-solution .text-content.tatm {
+        padding: 1px 21px 40px 1px !important;
+    }
+    .cms-software-solution .t-table-col> :first-child {
+
+        padding: 32px 17px 25px 17px;
+
+    }
+    .cms-software-solution .th-col.sol {
+        padding-top: 25px;
+    }
 }
 
-@media (max-width: 375px) {
+@media (min-width: 321px) and (max-width: 409px) {
+    .cms-software-solution .table-solution {
+        margin-top: 10px  !important;
+        margin-bottom: -51px !important;
+    }
     .cms-software-solution .text-content {
         padding: 1px 26px 40px 1px;
     }
-
-    .text-content.tatm {
-        padding: 1px 26px 40px 1px;
+    .cms-software-solution .title-solution-SDMS {
+        margin-top: -15px;
     }
+    .cms-software-solution .text2-solution {
+        margin-bottom: -40px;
+    }
+    .cms-software-solution .table-solution {
+        margin-top: -5px;
+        margin-bottom: -50px;
+    }
+    .cms-software-solution .text1-solution-SDMS® {
+        margin-bottom: -30px;
+    }
+    .cms-software-solution .text-content.tatm {
+        padding: 1px 30px 40px 1px !important;
+    }
+    .cms-software-solution span.besttm {
+        padding-left: 25px;
+    }
+
+    .cms-software-solution span.assist {
+        padding-left: 30px;
+    }
+
+    .cms-software-solution .text-content.cont-hoci {
+        margin-bottom: 15px;
+        margin-top: -90px;
+        padding: 45px 30px !important;
+    }
+    .cms-software-solution .text-content.text-high-tech {
+        margin-top: -120px;
+        margin-bottom: 15px;
+        padding: 49px 27px !important;
+    }
+
+
+}
+@media (max-width: 361px) {
+    .cms-software-solution .text-content.text-high-tech.hiht {
+        margin-top: -120px;
+        margin-bottom: 15px;
+        padding: 49px 21px !important;
+    }
+    .cms-software-solution .text-content.tatm {
+        padding: 1px 23px 40px 1px !important;
+    }
+    .cms-software-solution .text-content.cont-hoci.hiht {
+        margin-bottom: 15px;
+        margin-top: -90px;
+        padding: 45px 22px !important;
+    }
+}
+@media (max-width: 420px) {
+    .cms-software-solution span.ctn {
+        padding: 10px !important;
+    }
+    .cms-software-solution .text-high-tech-solution {
+        margin-bottom: 30px  !important;
+    }
+    .cms-software-solution .image-high-tech {
+        margin-top: 25px !important;
+        padding-left: 20px !important;
+    }
+
+    .cms-software-solution .title-solution-SDMS {
+
+        padding: 12px 5px 12px 36px;
+        margin-top: -40px !important;
+
+    }
+    .cms-software-solution span.hoci.chan {
+        padding: 10px 15px 10px 35px;
+        display: initial;
+    }
+    .cms-software-solution .container.image-SDMS® {
+        display: block;
+        padding: 15px;
+        /* margin-top: 9px; */
+        margin-bottom: 30px;
+    }
+
 }
