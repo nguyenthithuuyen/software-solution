@@ -1,3 +1,8 @@
+.cms-software-solution .tab sup {
+    top: -.5em;
+    padding-left: -3px;
+    padding-right: 4px;
+}
 .cms-software-solution .t-table-col> :first-child {
     background: #DCB972 0% 0% no-repeat padding-box;
     opacity: 1;
@@ -9,6 +14,9 @@
     color: #FFFFFF;
     text-align: center;
     font-weight: 700;
+}
+.cms-software-solution .table-solution .t-table-col:first-child .t-business-best {
+    border-left: 1px solid #DCB972;
 }
 .cms-software-solution .container {
     /* width: 100%;
@@ -146,7 +154,9 @@
 }
 
 .cms-software-solution .t-business-best {
-    border: 1px solid #DCB972;
+    border-top: 1px solid #DCB972;
+    border-right: 1px solid #DCB972;
+    border-bottom: 1px solid #DCB972;
 }
 
 .cms-software-solution .text-business-best {
@@ -695,7 +705,10 @@
     color: #FFFFFF;
     margin-bottom: 28px;
 }
-
+.cms-software-solution .tab.hight {
+    margin-left: 26px;
+    margin-right: 26px;
+}
 .cms-software-solution .box_banner .link_bn_bt {
     max-width: 100%;
     height: 55px;
@@ -784,7 +797,7 @@
     justify-content: space-between;
     margin-bottom: 70px;
     text-align: center;
-    flex-wrap: wrap;
+
     z-index: 3;
     background: #fff;
 }
@@ -798,7 +811,7 @@
 }
 
 .cms-software-solution .tab-list .tab {
-    width: 31.3%;
+    width: 100%;
     position: relative;
     color: #929292;
     text-align: center;
@@ -807,13 +820,17 @@
     opacity: 1;
     cursor: pointer;
     font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 57px;
+
 }
 
 .cms-software-solution .tab-list {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    flex-wrap: wrap;
     margin-top: 50px;
     width: 100%;
 }
@@ -848,7 +865,7 @@
     width: 100%;
     height: 3px;
     position: absolute;
-    bottom: 8px;
+    bottom: -3px;
     background: #b2b2b2 0% 0% no-repeat padding-box;
 }
 
@@ -977,7 +994,7 @@ div#tab-3 {
     width: 100%;
     height: 3px;
     position: absolute;
-    bottom: 8px;
+    bottom: -3px;
     background: #000 0% 0% no-repeat padding-box;
 }
 
@@ -1011,10 +1028,6 @@ div#tab-3 {
     justify-content: center !important;
     margin-bottom: 40px !important;
 
-}
-
-.cms-software-solution .t-business-best {
-    border: 1px solid #DCB972;
 }
 
 .cms-software-solution .text-business-best {
@@ -2034,6 +2047,7 @@ div#tab-3 {
         text-transform: uppercase;
         opacity: 1;
         cursor: pointer;
+        margin: 0;
         font-weight: 700;
     }
 
@@ -2274,7 +2288,7 @@ div#tab-3 {
     }
 
     .cms-software-solution .t-business-best {
-        border: 1px solid #DCB972;
+        border: 1px solid #DCB972 !important;
         margin-bottom: 50px;
     }
 
